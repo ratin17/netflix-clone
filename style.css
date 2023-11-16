@@ -44,18 +44,18 @@ nav button{
     cursor: pointer;
 }
 
-.lang-btn{
+/* .lang-btn{
     display: inline-flex;
     align-items: center;
     background: transparent;
     border: 1px solid #fff;
     padding: 7px 10px;
-}
+} */
 
-.lang-btn img{
+/* .lang-btn img{
     width: 10px;
     margin-left: 10px;
-}
+} */
 
 .header-content{
     position: absolute;
